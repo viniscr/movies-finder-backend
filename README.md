@@ -9,7 +9,7 @@ API is available for use in this link
 ```
 # clone repository
 $ git clone https://github.com/viniscr/movies-finder-backend.git
-$ cd movies-station-backend
+$ cd movies-finder-backend
 
 # get dependencies
 $ yarn install

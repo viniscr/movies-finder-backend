@@ -42,5 +42,6 @@ $ yarn start
 
 ## Tools and Frameworks
 - NodeJs - JavaScript runtime built on Chrome's V8 JavaScript engine. As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.
-- Express Framework - Fast, unopinionated, minimalist web framework for Node.js
-- Dotenv - module used to load environment variables from a .env file into process.env .
+- Express Framework - Fast, unopinionated, minimalist web framework for Node.js.
+- Dotenv - Module used to load environment variables from a .env file into process.env.
+- Cors - Node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options

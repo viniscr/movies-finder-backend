@@ -1,4 +1,4 @@
-# Movies TMDb REST API
+# Movies Finder - TMDb REST API
 REST API built in NodeJS that consumes the famous Movie Database API (https://developers.themoviedb.org/3). 
 
 API is available for use in this link 
